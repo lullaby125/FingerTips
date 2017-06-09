@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\OpenCV\opencv_3_1_0\build\include\opencv2/core/mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+D:\OpenCV\opencv_3_1_0\build\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+D:\OpenCV\opencv_3_1_0\build\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+D:\OpenCV\opencv_3_1_0\build\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+main.cpp(51): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' の宣言を確認してください
+  コード生成しています。
+  2 of 372 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  RgbCamera.vcxproj -> D:\Users\user\Documents\Visual Studio 2015\Projects\KinectSDKBook4CPP-master\1_basic\x64\Release\RgbCamera.exe
+  RgbCamera.vcxproj -> D:\Users\user\Documents\Visual Studio 2015\Projects\KinectSDKBook4CPP-master\1_basic\x64\Release\RgbCamera.pdb (Full PDB)
